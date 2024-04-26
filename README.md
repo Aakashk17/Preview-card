@@ -1,3 +1,5 @@
+Project live URL : https://aakashk17.github.io/Preview-card/
+
 # Frontend Mentor - Blog preview card
 
 ![Design preview for the Blog preview card coding challenge](./design/desktop-preview.jpg)
